@@ -1,0 +1,10 @@
+# Production dependencies for Physics-Informed Satellite Pipeline
+numpy>=1.24.0
+scipy>=1.10.0
+Pillow>=9.5.0
+opencv-python>=4.7.0
+
+# Optional dependencies for GPU acceleration and enhanced geospatial IO
+# torch>=2.0.0
+# scikit-learn>=1.2.0
+# rasterio>=1.3.0
